@@ -1,2 +1,17 @@
 # Course-Project-Part-3-Self-Team-Evaluation-and-GitHub
-The code works in the simulator that is linked in the documentation
+
+LC-3-Bubble-Sort
+
+This bubble sort is a demonstrative program that sorts 8 numbers from lowest to highest. User input is inserted into the console in any order. The numbers should be 2 digits followed by an enter key.
+
+
+Credits to:
+
+Carter Recore, Frame work creation, debugging
+
+Joshua Lee, Team coordinator, Debugging
+
+Xuan Thinh, Project advisor and assistance
+
+Member Thinh states the program runs on the provided simulator. Other simulators from other members have different results. Further
+experimentation is needed.
